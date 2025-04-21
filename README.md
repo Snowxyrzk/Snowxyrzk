@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=1000&color=CB84FF&background=FFFFFF00&center=true&vCenter=true&width=500&lines=WELCOME+TO+SNOW+HELL;ENTER+THE+PURPLE+REALM" alt="Typing Animation" /></a>
+  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=1000&color=CB84FF&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Welcome+to+Hell+of+Snow;Snow+Death" alt="Typing Animation" /></a>
 </p>
 
 ---
