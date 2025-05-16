@@ -12,7 +12,7 @@
 
 <div align="center" style="margin: 30px 0;">
   <a href="https://discord.com/users/306067032913477634"><img src="https://img.shields.io/badge/Profile-7289DA?style=for-the-badge&logo=snowflake&logoColor=white" alt="Discord"/></a>&nbsp;
-  <a href="https://e-z.bio/im_snow"><img src="https://img.shields.io/badge/EZ_Bio-5865F2?style=for-the-badge&logo=linktree&logoColor=white" alt="EZ Bio"/></a>&nbsp;
+  <a href="https://guns.lol/imsnow"><img src="https://img.shields.io/badge/EZ_Bio-5865F2?style=for-the-badge&logo=linktree&logoColor=white" alt="Bio"/></a>&nbsp;
   <a href="https://open.spotify.com/user/31nd4ldklhy3mym6422yjga43jj4"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a>&nbsp;
     <br>
   <a href="https://www.roblox.com/pt/users/8244391738/profile"><img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox"/></a>&nbsp;
