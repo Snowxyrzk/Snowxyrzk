@@ -18,7 +18,7 @@
 |--|--|
 <br>
 <p align="center">
-    <a href="#"><img src="https://komarev.com/ghpvc/?username=Snowxyrzk&style=for-the-badge&label=Views:&color=gray"/></a>
+    <a href="#"><img src="https://komarev.com/ghpvc/?username=khandestroyer&style=for-the-badge&label=Views:&color=gray"/></a>
     <a href="#"><img src="https://custom-icon-badges.herokuapp.com/github/followers/Snowxyrzk?color=000000&labelColor=ffffff&style=for-the-badge&logo=person-add&label=Follows&logoColor=black"/></a>
 </p>
 <a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&reversal=true&descSize=5&descAlign=0&descAlignY=34&section=footer&fontAlignY=2&fontAlign=0"/></a>
